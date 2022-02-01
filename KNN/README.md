@@ -34,6 +34,12 @@ Type: Type of glass: (class attribute) 1 -- building_windows_float_processed
 7 --headlamps
 
 
+
+
+
+
+
+
 Assignment-01-KNN-Classification
 Prepare a model for glass classification using KNN Data Description:
 
